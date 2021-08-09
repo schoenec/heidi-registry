@@ -1,2 +1,3 @@
 https://moodle-guest.hrz.tu-darmstadt.de/shibboleth
 https://sso.h-da.de/idp/shibboleth
+https://weblogin.uni-marburg.de/idp/shibboleth
